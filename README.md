@@ -1,1 +1,2 @@
-# subject-4-url-shortening
+# Profesyonel Yazılım Mühendisliği Uygulamaları Dersi
+# 4. Hafta Ödevi
