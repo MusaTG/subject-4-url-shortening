@@ -13,7 +13,7 @@ router.post("/shorten", async (req, res) => {
     }
 
     // rastgele kod üretme
-    const urlCode = shortid.generate();
+    const urlCode = shortid.generate().slice('1','7');
 
     if (validUrl.isUri(longUrl)) {
         try {
